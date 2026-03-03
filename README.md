@@ -1,5 +1,4 @@
-# Data_Warehouse_and_BI_project
-# 📊 Data Warehouse and Analytics Project
+# Data Warehouse and Business Intelligence Project
 
 <div align="center">
 
