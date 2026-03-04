@@ -59,7 +59,6 @@ BEGIN
         );
         
         PRINT 'Table crm_cust_info loaded successfully';
-        PRINT 'Rows loaded: ' + CAST(@@ROWCOUNT AS VARCHAR(10));
         PRINT '';
 
         -- --------------------------------------------------------------------
@@ -85,7 +84,6 @@ BEGIN
         );
         
         PRINT 'Table crm_prd_info loaded successfully';
-        PRINT 'Rows loaded: ' + CAST(@@ROWCOUNT AS VARCHAR(10));
         PRINT '';
 
         -- --------------------------------------------------------------------
@@ -111,7 +109,6 @@ BEGIN
         );
         
         PRINT 'Table crm_sales_details loaded successfully';
-        PRINT 'Rows loaded: ' + CAST(@@ROWCOUNT AS VARCHAR(10));
         PRINT '';
 
         -- ====================================================================
@@ -145,7 +142,6 @@ BEGIN
         );
         
         PRINT 'Table erp_cust_az12 loaded successfully';
-        PRINT 'Rows loaded: ' + CAST(@@ROWCOUNT AS VARCHAR(10));
         PRINT '';
 
         -- --------------------------------------------------------------------
@@ -171,7 +167,6 @@ BEGIN
         );
         
         PRINT 'Table erp_loc_a101 loaded successfully';
-        PRINT 'Rows loaded: ' + CAST(@@ROWCOUNT AS VARCHAR(10));
         PRINT '';
 
         -- --------------------------------------------------------------------
@@ -197,7 +192,6 @@ BEGIN
         );
         
         PRINT ' Table erp_px_cat_g1v2 loaded successfully';
-        PRINT ' Rows loaded: ' + CAST(@@ROWCOUNT AS VARCHAR(10));
         PRINT '';
 
         -- ====================================================================
